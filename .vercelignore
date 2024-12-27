@@ -1,0 +1,6 @@
+CR_NB.ipynb
+CR.csv
+minmaxscaler.pkl
+standscaler.pkl
+*.log
+*.md
